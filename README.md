@@ -9,6 +9,7 @@ The analysis looks to answer the following questions:
 
 ## Results:
 
+[link to dashboard](https://public.tableau.com/app/profile/fateh.luqman/viz/CitiBikeNYCRideshare/CitiBikeNYCRideshare "Link to Dashboard")
 * Dashboard of the breakdown of NYC ridership for Aug 2019: shows that of 2.3 million rides, 1.9 million were subscribers and 1.5 million were male. Additionally, the top starting locations are located in Manhattan. 
 * A review of Avg Trip Duration and Birth Year shows that as avg bike duration increases with younger riders. 
 * Largest number of bikes were used for rides peaking at 5 minutes
